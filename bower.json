@@ -1,0 +1,22 @@
+{
+  "name": "cannon",
+  "version": "0.5.1",
+  "homepage": "https://github.com/foxdog-studios/cannon.js",
+  "authors": [
+    "Stefan Hedman schteppe@gmail.com"
+  ],
+  "description": "A lightweight 3D physics engine written in JavaScript.",
+  "main": "build/cannon.js",
+  "keywords": [
+    "physics",
+    "3d"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
